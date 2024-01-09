@@ -1,6 +1,5 @@
 # Hi there 👋
-**I'm a fullstack developer** 👨‍💻<br/>
-**Systems Engineer Student 🎓**
+**Fullstack developer `&&` Systems engineering student 👨‍💻**
 
 ## Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
