@@ -1,7 +1,7 @@
 # Hi there 👋
 **Fullstack developer `&&` Systems engineering student 👨‍💻**
 
-Check out my [portfolio](https://lujn.dev)!
+Check out my [portfolio](https://lujan.dev)!
 
 ## Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
